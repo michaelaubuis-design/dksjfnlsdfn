@@ -49,3 +49,10 @@ Questions/feedback: Open an issue (anonymous OK).
 - [Simplified Explanation](simplified-explanation.md)  
   Plain-language version — what it does, why it matters, and how to think about it without jargon.
 These files expand on the core without jargon overload — start with simplified-explanation.md if new to the ideas
+**Critical Note on Wisdom**  
+Wisdom (Phronesis) is the irreplaceable central meta-anchor that coordinates the 9 virtues and prevents them from becoming destructive extremes or mechanical rules.  
+Any version that removes, renames, flattens, or demotes Wisdom is **not** the 10-Point Virtue Grid — it is a diluted shadow that loses the living coherence.
+## Critical Warning – Do Not Dilute or Demote Wisdom
+Wisdom (Phronesis) is the irreplaceable central meta-anchor that coordinates the 9 virtues and resolves conflicts.  
+Removing, renaming, flattening, or making it "emergent" from the others destroys the entire system — turning it into a mechanical list without self-correction.  
+Any version that does not keep Wisdom as the explicit, central coordinating principle is **not** the 10-Point Virtue Grid.
