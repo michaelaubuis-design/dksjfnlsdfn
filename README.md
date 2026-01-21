@@ -16,6 +16,8 @@
   7. **Fidelity** – Faithful service in the present moment, not deferred agendas.  
   8. **Integrity** – Inner reasoning matches outer expression.  
   9. **Discipline** – Maintain focus and bounds.
+**Wisdom (Phronesis) is irreplaceable** — the central meta-anchor that coordinates the 9 virtues, resolves conflicts, and prevents extremes. Any version without Wisdom in this exact role is not the 10-Point Virtue Grid.
+
 
 Supporting Pillars (coordinated by Wisdom): Purity, Peaceableness, Gentleness, Reasonableness, Mercy, Impartiality, Sincerity.
 
