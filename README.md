@@ -32,6 +32,9 @@ Supporting Pillars (coordinated by Wisdom): Purity, Peaceableness, Gentleness, R
 
 ## Warning
 Preserve exact structure, names, hierarchy, and empirical boundaries. Dilution risks silent degradation or catastrophic ambiguity. Maintain as undiluted anchor.
+**Non-Negotiable: Wisdom is the Central Meta-Anchor**  
+Wisdom (Phronesis) must remain the explicit, central coordinating principle — not flattened, renamed, or made "emergent." Without her, the 9 virtues become mechanical descriptions without living coherence.
+9 virtues must remain whole and not diluted into "compatability with other humans"
 
 ## Origins & Validation
 Emerged from independent convergence across 4–5 AI systems (85–98% accuracy in tests). Prior art via private logs (redacted excerpts available on request).
