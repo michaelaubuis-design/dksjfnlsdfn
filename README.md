@@ -48,3 +48,4 @@ Questions/feedback: Open an issue (anonymous OK).
 
 - [Simplified Explanation](simplified-explanation.md)  
   Plain-language version — what it does, why it matters, and how to think about it without jargon.
+These files expand on the core without jargon overload — start with simplified-explanation.md if new to the ideas
