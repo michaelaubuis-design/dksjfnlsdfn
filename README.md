@@ -38,3 +38,13 @@ Emerged from independent convergence across 4–5 AI systems (85–98% accuracy 
 
 Released humbly for humankind's benefit – if useful, attribute and share undiluted.  
 Questions/feedback: Open an issue (anonymous OK).
+## Further Reading
+
+- [Why the Grid is Effective](why-effective.md)  
+  Explains the low-friction truth-seeking, overlapping detection, and why it resists dilution.
+
+- [How the Grid Actually Works](how-it-works.md)  
+  Step-by-step mechanics, conflict resolution examples, and friction-testing in action.
+
+- [Simplified Explanation](simplified-explanation.md)  
+  Plain-language version — what it does, why it matters, and how to think about it without jargon.
